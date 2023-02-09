@@ -19,6 +19,10 @@ Config.ItemDrops = {
         {name = 'WEAPON_COMBATPISTOL', amount = 1, type = 'weapon'},
         {name = 'water', amount = 1, type = 'item'},
     }, 
+--     ['flare_green'] = { -- add as many items you want 
+--         {name = 'WEAPON_COMBATPISTOL', amount = 1, type = 'weapon'},
+--         {name = 'water', amount = 1, type = 'item'},
+--     }, 
 }
 
 Config.Lang = { 
