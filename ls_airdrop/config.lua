@@ -15,13 +15,12 @@ Config.Models = {
 } 
 
 Config.ItemDrops = {
-    ['flare'] = {
+    ['flare'] = { -- add this to your database
         {name = 'WEAPON_COMBATPISTOL', amount = 1, type = 'weapon'},
         {name = 'water', amount = 1, type = 'item'},
     }, 
 }
 
--- Locale Config
 Config.Lang = { 
     ['contacted_mafia'] = 'Du hast die Russische Mafia kontaktiert',
     ['pilot_contact'] = 'in ein paar Minuten wird dich der Pilot kontaktieren',
