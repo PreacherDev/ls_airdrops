@@ -1,6 +1,6 @@
 Config = {}
 
-Config.RequiredCops = 0 -- How many cops are required to drop a gun?
+Config.RequiredCops = 0 -- How many cops are required to drop a gun? -- test this, if not working, join the discord
 Config.PoliceJobs = {'police'}
 
 Config.ModelsToLoad = {'w_am_flare', 'p_cargo_chute_s', 'ex_prop_adv_case_sm', 'bombushka', 's_m_m_pilot_02'}
