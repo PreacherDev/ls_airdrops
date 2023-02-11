@@ -15,7 +15,7 @@ Config.Models = {
 } 
 
 Config.ItemDrops = {
-    ['flare'] = { -- add this to your database
+    ['flare'] = { -- add this to your database // this is the item to start the airdrop // restart server after adding others
         {name = 'WEAPON_COMBATPISTOL', amount = 1, type = 'weapon'},
         {name = 'water', amount = 1, type = 'item'},
     }, 
